@@ -1,7 +1,7 @@
 # Music-App
 Simple Music Playlist Application Using VueJS
 
-#Steps
+## Steps to Run:
 1. Clone this Repositry
 2. npm run serve
 
